@@ -1,1 +1,1 @@
-# Lab3_PhamThienDuc_TranChiHieu_HuynhPhucHuy
+# Lab3_PhamThienDuc_TranChiHieu
